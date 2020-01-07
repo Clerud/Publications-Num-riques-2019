@@ -12,7 +12,7 @@ J'ai mélangé **5 poèmes** de Baudelaire, il n'y en a **qu'un seul** qui est p
 
 **Pour revenir en arrière** : vous disposez d'une flèche sur votre gauche pour revenir à la page précédente. Une fois votre poème terminé, vous avez toujours la possibilité de revenir directement au début grâce à un bouton mis à votre disposition. 
 
-**Les choix** se présente à vous en *italique*, vous devez cliquer sur la partie <span id='explication'>colorée</span>colorée afin de poursuivre votre aventure poétique
+**Les choix** se présente à vous en *italique*, vous devez cliquer sur la partie <span id='explication'>colorée</span> afin de poursuivre votre aventure poétique
 
 
 Ce projet a été réalisé dans le cadre du cours "Publications Numériques" à à l'Université de Lausanne. Pour ce faire, j'ai utilisé le logiciel Twine2. 
