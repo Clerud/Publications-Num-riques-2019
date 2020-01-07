@@ -1,6 +1,6 @@
 **Soyez les bienvenus !**
 
-Qu'un poète sommeil en vous ou non, je vous invite à redécouvrir Baudelaire
+Qu'un poète sommeille en vous ou non, je vous invite à redécouvrir Baudelaire
 
 **Comment ça marche ?**
 
