@@ -15,4 +15,4 @@ J'ai mélangé **5 poèmes** de Baudelaire, il n'y en a **qu'un seul** qui est p
 **Les choix** se présente à vous en *italique*, vous devez cliquer sur la partie <span id='explication'>colorée</span> afin de poursuivre votre aventure poétique
 
 
-Ce projet a été réalisé dans le cadre du cours "Publications Numériques" à à l'Université de Lausanne. Pour ce faire, j'ai utilisé le logiciel Twine2. 
+Ce projet a été réalisé dans le cadre du cours "Publications Numériques" à l'Université de Lausanne. Pour ce faire, j'ai utilisé le logiciel Twine2. 
